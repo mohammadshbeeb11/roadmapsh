@@ -9,3 +9,6 @@ project url: https://roadmap.sh/projects/basic-html-website
 
 ## Styling Basic HTML Website
 project url: https://roadmap.sh/projects/portfolio-website
+
+## Changelog Component
+project url: https://roadmap.sh/projects/changelog-component
